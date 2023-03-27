@@ -1,3 +1,1 @@
 # terraform-cloud-sample
-
-tmp
