@@ -11,7 +11,7 @@ terraform {
     organization = "kazuya-kobayashi"
 
     workspaces {
-      name = "example"
+      name = "terraform-cloud-sample"
     }
   }
 }
