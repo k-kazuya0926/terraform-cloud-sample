@@ -6,12 +6,4 @@ terraform {
       version = "4.59.0"
     }
   }
-
-  backend "remote" {
-    organization = "kazuya-kobayashi"
-
-    workspaces {
-      name = "terraform-cloud-sample"
-    }
-  }
 }
